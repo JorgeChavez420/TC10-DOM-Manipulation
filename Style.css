@@ -1,0 +1,13 @@
+.colored-box {
+    width: 300px;
+    height: 300px;
+}
+.colored-box.blue {
+    background-color: blue;
+}
+.colored-box.red {
+    background-color: red;
+}
+.colored-box.green {
+    background-color: green;
+}    
